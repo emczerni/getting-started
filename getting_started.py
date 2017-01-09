@@ -15,7 +15,7 @@ def square(n):
         The square of the number `n`
 
     """
-    # YOUR CODE HERE
+    return n*n
 
 
 def cube(n):
@@ -28,7 +28,7 @@ def cube(n):
         The cube of the number `n`
 
     """
-    # YOUR CODE HERE
+    return n**3
 
 
 
